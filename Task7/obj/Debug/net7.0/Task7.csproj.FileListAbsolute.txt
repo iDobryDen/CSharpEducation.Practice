@@ -1,0 +1,15 @@
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/bin/Debug/net7.0/Task7
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/bin/Debug/net7.0/Task7.deps.json
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/bin/Debug/net7.0/Task7.runtimeconfig.json
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/bin/Debug/net7.0/Task7.dll
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/bin/Debug/net7.0/Task7.pdb
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.csproj.AssemblyReference.cache
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.AssemblyInfoInputs.cache
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.AssemblyInfo.cs
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.csproj.CoreCompileInputs.cache
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.dll
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/refint/Task7.dll
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.pdb
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/Task7.genruntimeconfig.cache
+/Users/den/Documents/programing/C#/CSharpEducation.Practice2/Task7/obj/Debug/net7.0/ref/Task7.dll
