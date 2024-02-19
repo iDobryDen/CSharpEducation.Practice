@@ -15,4 +15,3 @@ class Program
         return new int[0];
     }
 }
-
